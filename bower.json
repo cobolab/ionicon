@@ -1,0 +1,23 @@
+{
+  "name": "angularic-ionicon",
+  "version": "1.0.0",
+  "authors": [
+    "Nanang Mahdaen El Agung <nanang@mahdaen.name>"
+  ],
+  "description": "Angular Icon - Ionicon",
+  "main": "index.js",
+  "keywords": [
+    "angular",
+    "icon",
+    "ionicon"
+  ],
+  "license": "MIT",
+  "homepage": "https://angularic.github.io/ionicon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

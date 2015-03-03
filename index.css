@@ -1,0 +1,91 @@
+body {
+	padding: 40px;
+}
+body, input {
+	font-family: "Verdana";
+	font-size: 14px;
+}
+
+body * {
+	box-sizing: border-box;
+}
+
+ul {
+	display: block;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+code {
+	color: red;
+	background: #ffffff;
+}
+
+/* Icon Listing */
+.symbol-list {
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	width: 101.35593%;
+	-webkit-box-direction: row;
+	-webkit-box-orient: row;
+	-webkit-moz-direction: row;
+	-webkit-moz-orient: row;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-pack: flex-start;
+	-moz-box-pack: flex-start;
+	-webkit-justify-content: flex-start;
+	-ms-flex-pack: start;
+	justify-content: flex-start;
+	-webkit-box-align: stretch;
+	-moz-box-align: stretch;
+	-webkit-align-items: stretch;
+	align-items: stretch;
+	-ms-flex-align: stretch;
+	margin-left: -1.35593%;
+}
+.symbol-list .symbol-box {
+	-ms-flex-preferred-size: 11.14407%;
+	-webkit-flex-basis: 11.14407%;
+	flex-basis: 11.14407%;
+	margin-left: 1.35593%;
+	margin-bottom: 1.35593%;
+	text-align: center;
+	position: relative;
+	border: 1px solid #ddd;
+	background-color: #fff;
+	height: 100px;
+}
+.symbol-list .symbol {
+	display: block;
+	width: 48px;
+	height: 48px;
+	margin: 10px auto;
+}
+.symbol-list .symbol:before {
+	font-size: 48px;
+}
+.symbol-list .label {
+	display: block;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	border: none;
+	font: 12px "opensans regular";
+	line-height: 18px;
+	background-color: #eee;
+	padding: 4px 12px;
+}
+.symbol-list .label:focus {
+	border-bottom: 1px solid steelblue;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "angularic-ionicon",
+  "version": "1.0.0",
+  "description": "Angular Icon - Ionicons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angularic/ionicon.git"
+  },
+  "keywords": [
+    "angular",
+    "icon",
+    "ionicon"
+  ],
+  "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angularic/ionicon/issues"
+  },
+  "homepage": "https://github.com/angularic/ionicon"
+}
