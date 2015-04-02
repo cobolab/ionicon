@@ -526,6 +526,11 @@
         "yahoo-outline": "0xe20a",
         "youtube-play": "0xe20b",
         "youtube-play-outline": "0xe20c",
+        "cpu": "0xe20D",
+        "hdd": "0xe20E",
+        "ram": "0xe20F",
+        "network": "0xe210",
+        "terminal": "0xe211",
     };
 
     /* Data Icon List */
