@@ -1,6 +1,6 @@
 {
   "name": "angularic-ionicon",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Angular Icon - Ionicons",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angularic/ionicon.git"
+    "url": "https://github.com/cobolab/ionicon.git"
   },
   "keywords": [
     "angular",
@@ -18,7 +18,7 @@
   "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angularic/ionicon/issues"
+    "url": "https://github.com/cobolab/ionicon/issues"
   },
-  "homepage": "https://github.com/angularic/ionicon"
+  "homepage": "https://github.com/cobolab/ionicon"
 }

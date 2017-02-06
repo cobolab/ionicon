@@ -1,6 +1,6 @@
 {
   "name": "angularic-ionicon",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "authors": [
     "Nanang Mahdaen El Agung <nanang@mahdaen.name>"
   ],
@@ -15,7 +15,7 @@
     "ionicon"
   ],
   "license": "MIT",
-  "homepage": "https://angularic.github.io/ionicon",
+  "homepage": "https://github.com/cobolab/ionicon",
   "ignore": [
     "**/.*",
     "node_modules",
