@@ -5,7 +5,10 @@
     "Nanang Mahdaen El Agung <nanang@mahdaen.name>"
   ],
   "description": "Angular Icon - Ionicon",
-  "main": "index.js",
+  "main": [
+    "angularic-ionicon.js",
+    "angularic-ionicon.css"
+  ],
   "keywords": [
     "angular",
     "icon",
